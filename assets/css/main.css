@@ -3238,13 +3238,17 @@
 	width: auto;
 	border-radius: 0;
 	border: 1px solid #eee;
+	margin: -120px 0;
 }
+
 
 .featured.project-span {
 	float: right;
 	margin-left: 20px;
 	margin-bottom: 20px;
 }
+
+
 
 .style1 a {
 	border-bottom: 0;
