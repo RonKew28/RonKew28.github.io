@@ -43,6 +43,15 @@ li {
   font-size: 1.5em;
 }
 
+.test {
+  display: inline-block;
+}
+
+.test a {
+  display: inline-block;
+  margin-right: 1.5em;
+}
+
 
 
 
