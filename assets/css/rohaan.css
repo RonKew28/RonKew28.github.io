@@ -86,3 +86,10 @@ ul.icons.major {
 #pacman {
 height: 500px;
 }
+
+#profile-pic {
+  width: 200px;
+  height: auto;
+  margin: -50px auto 10px auto;
+  display: block;
+}
