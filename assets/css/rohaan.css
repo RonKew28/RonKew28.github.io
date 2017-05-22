@@ -88,8 +88,6 @@ height: 500px;
 }
 
 #profile-pic {
-  width: 200px;
-  height: auto;
-  margin: -50px auto 10px auto;
+  margin-bottom: 10px;
   display: block;
 }
